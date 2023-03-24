@@ -1,5 +1,5 @@
 # Career-Oriented-Services-
-Search engine optimization, WebDeign, Digital Marketing 
+Search engine optimization, Web Design, Digital Marketing 
 Search engine optimization (SEO) is a process of optimizing web pages and content 
 
 so that they show up higher in search engines for relevant queries. It involves 
